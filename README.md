@@ -13,6 +13,6 @@ Aspiring software designer and developer, eager to tackle complex challenges wit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita0807&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ishita Majumdar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ishita0807&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
